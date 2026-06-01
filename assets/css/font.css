@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
 .image.avatar img {
-    width: 1000px;
-    height: auto;
+    width: 1000px !important;
+    height: auto !important;
 }
 
 header img {
-    width: 1000px;
-    height: auto;
+    width: 1000px !important;
+    height: auto !important;
 }
 
 body {
