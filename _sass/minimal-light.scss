@@ -230,7 +230,7 @@ papertitle {
 
 /* avatar wrapper */
 .image.avatar {
-  border-radius: 50%; /* makes container circular */
+  border-radius: 100%; /* makes container circular */
 }
 
 /* removes overlay on avatar */
@@ -243,7 +243,7 @@ papertitle {
    ========================= */
 .image.avatar img {
   border-radius: 50%; /* circular image */
-  width: 100%;        /* fills parent container */
+  width: 70%;        /* fills parent container */
   padding: 20px;      /* IMPORTANT: reduces visible image size */
 }
 
