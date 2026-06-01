@@ -3,16 +3,6 @@
   <head>
     <title>{{ site.title }} | {{site.affiliation}}</title>
 
-    <nav class="navbar">
-  <ul class="nav-links">
-    {% for item in site.data.navigation %}
-      <li>
-        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</nav>
-
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
