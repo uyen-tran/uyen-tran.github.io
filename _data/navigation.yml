@@ -7,11 +7,8 @@ main:
   - title: "Services"
     url: services/
 
-  - title: "Group"
-    url: research-group/
-
-  - title: "Publications"
-    url: publications/
+  - title: "Research"
+    url: research/
 
   - title: "Home"
     url: 
