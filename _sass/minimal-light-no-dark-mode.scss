@@ -503,19 +503,6 @@ footer {
   #head2o2 {
     visibility: hidden;
   }
-
-  #myLinks {
-    display: none;
-    flex-direction: column;
-    gap: 10px;
-    width: 100%;
-    text-align: center;
-  }
-
-  #myLinks.open {
-    display: flex;
-  }
-
 }
 
 @media print {
