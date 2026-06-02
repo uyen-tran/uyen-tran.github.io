@@ -528,17 +528,6 @@ footer {
     visibility: hidden;
   }
 
-  #myLinks {
-    display: none;
-    flex-direction: column;
-    gap: 20px;
-    width: 100%;
-    text-align: center;
-  }
-
-  #myLinks.open {
-    display: flex;
-  }
   
 }
 
@@ -564,17 +553,6 @@ footer {
     word-wrap:normal;
   }
 
-  #myLinks {
-    display: none;
-    flex-direction: column;
-    gap: 20px;
-    width: 100%;
-    text-align: center;
-  }
-
-  #myLinks.open {
-    display: flex;
-  }
 }
 
 @media print, screen and (max-width: 480px) {
