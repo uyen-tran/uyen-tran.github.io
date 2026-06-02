@@ -25,7 +25,7 @@
 
 #myLinks {
   display: flex;
-  gap: 20px; /* controls spacing between items */
+  gap: 40px; /* controls spacing between items */
   align-items: center;
   justify-content: center;
 }
@@ -527,6 +527,18 @@ footer {
   #head2o2 {
     visibility: hidden;
   }
+
+  #myLinks {
+    display: none;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    text-align: center;
+  }
+
+  #myLinks.open {
+    display: flex;
+  }
   
 }
 
@@ -550,6 +562,18 @@ footer {
 
   pre, code {
     word-wrap:normal;
+  }
+
+  #myLinks {
+    display: none;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    text-align: center;
+  }
+
+  #myLinks.open {
+    display: flex;
   }
 }
 
@@ -582,6 +606,18 @@ footer {
   
   #head2o2 {
     visibility: hidden;
+  }
+
+  #myLinks {
+    display: none;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    text-align: center;
+  }
+
+  #myLinks.open {
+    display: flex;
   }
 
 }
