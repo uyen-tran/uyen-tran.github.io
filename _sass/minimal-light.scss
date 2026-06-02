@@ -14,6 +14,15 @@
   line-height:2.5rem;
   margin-right:1rem}
 
+.topnav {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* centers nav links */
+  position: relative;
+  width: 100%;
+  padding: 10px 0;
+}
+
 @media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
@@ -55,14 +64,6 @@
     */
 }
 
-.topnav {
-  display: flex;
-  align-items: center;
-  justify-content: center; /* centers nav links */
-  position: relative;
-  width: 100%;
-  padding: 10px 0;
-}
 
 .icon-button{
   background-color:white;
