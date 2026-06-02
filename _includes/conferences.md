@@ -1,4 +1,4 @@
-## Workshops and Conferences
+## Conferences and Workshops Attended
 
 2026
   - [PASCA 2.0](https://www.cimpa.info/en/ecoles/pasca-20-pan-american-school-commutative-algebra-2026) (Pan-American Summer School in Commutative Algebra at [Cimat](https://www.cimat.mx/), Guanajuato, Mexico
