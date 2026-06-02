@@ -16,4 +16,4 @@ University of Nebraska--Lincoln
 - *p*-adic Numbers, January 21, 2023
 
 ### REU
-- *p*-adic Numbers, advised by Dr. Eloísa Grifo and Dr. Jack Jeffries, Summer 2022
+- *p*-adic Numbers and *p*-derivations, advised by Dr. Eloísa Grifo and Dr. Jack Jeffries, Summer 2022
