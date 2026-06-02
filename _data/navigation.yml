@@ -4,17 +4,17 @@ main:
     url: 
 
   - title: "Research"
-    url: research/
+    url: # research/
 
   - title: "Teaching"
     url: teaching/
     right: true 
 
   - title: "Service"
-    url: service/
+    url: # service/
 
   - title: "Conferences"
     url: conferences/
 
   - title: "Miscellaneous"
-    url: miscellaneous/
+    url: # miscellaneous/
