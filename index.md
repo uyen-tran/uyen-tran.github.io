@@ -13,6 +13,7 @@ I’m originally from Vietnam. I moved to Spokane, Washington when I was 16 for 
 See my CV here.
 
 **Contact:** ktran21@huskers.unl.edu
+
 **Office:** Avery 313
 
 
