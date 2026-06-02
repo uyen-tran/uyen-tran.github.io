@@ -10,8 +10,8 @@ main:
     url: teaching/
     right: true 
 
-  - title: "Services"
-    url: services/
+  - title: "Service"
+    url: service/
 
   - title: "Conferences"
     url: conferences/
