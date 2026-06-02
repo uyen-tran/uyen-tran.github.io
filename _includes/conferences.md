@@ -1,7 +1,7 @@
 ## Conferences and Workshops Attended
 
 2026
-  - [PASCA 2.0](https://www.cimpa.info/en/ecoles/pasca-20-pan-american-school-commutative-algebra-2026) (Pan-American Summer School in Commutative Algebra at [Cimat](https://www.cimat.mx/), Guanajuato, Mexico
+  - [PASCA 2.0](https://www.cimpa.info/en/ecoles/pasca-20-pan-american-school-commutative-algebra-2026) (Pan-American Summer School in Commutative Algebra) at [Cimat](https://www.cimat.mx/), Guanajuato, Mexico
   - [A Celebration of Golod's Mathematical Legacy](https://warwick.ac.uk/fac/sci/maths/research/events/2025-2026/golod2026/) at the University of Warwick, UK
   - [CA+](https://www-users.cse.umn.edu/~cberkesc/CA/CA2026.html) at the Iowa State University
 
