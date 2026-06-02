@@ -10,8 +10,3 @@ My research interests lie in commutative and homological algebra.
 
 See my CV here.
 
-[//]: # {% include_relative _includes/publications.md %}
-
-[//]: # {% include_relative _includes/conferences.md %}
-
-[//]: # {% include_relative _includes/services.md %}
