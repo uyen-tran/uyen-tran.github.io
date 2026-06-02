@@ -7,7 +7,7 @@ email: ktran21@huskers.unl.edu
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Uyen Tran, UNL, Nebraska, math
-# description: Uyen Tran is 
+description: Uyen Tran is grad student in mathematics at the University of Nebraska--Lincoln, advised by Mark Walker.
 canonical: https://uyen-tran.github.io/
 
 # Links 
@@ -21,8 +21,8 @@ canonical: https://uyen-tran.github.io/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/profilepic.jpg
-favicon: ./assets/img/profilepic.jpg
-favicon_dark: ./assets/img/profilepic.jpg
+# favicon: ./assets/img/profilepic.jpg
+# favicon_dark: ./assets/img/profilepic.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
