@@ -1,14 +1,17 @@
 main:
 
+  - title: "Home"
+    url: 
+
   - title: "Teaching"
     url: teaching/
     right: true 
 
-  - title: "Services"
-    url: services/
-
   - title: "Research"
     url: research/
 
-  - title: "Home"
-    url: 
+  - title: "Services"
+    url: services/
+
+  - title: "Conferences"
+    url: conferences/
