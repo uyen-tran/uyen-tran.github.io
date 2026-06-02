@@ -7,8 +7,7 @@ main:
     url: research/
 
   - title: "Teaching"
-    url: teaching/
-    right: true 
+    url: teaching/ 
 
   - title: "Service"
     url: service/
