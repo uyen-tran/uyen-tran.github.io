@@ -3,15 +3,18 @@ main:
   - title: "Home"
     url: 
 
+  - title: "Research"
+    url: research/
+
   - title: "Teaching"
     url: teaching/
     right: true 
-
-  - title: "Research"
-    url: research/
 
   - title: "Services"
     url: services/
 
   - title: "Conferences"
     url: conferences/
+
+  - title: "Miscellaneous"
+    url: miscellaneous/
