@@ -10,7 +10,7 @@ I am a graduate student in the [Department of Mathematics](https://math.unl.edu/
 
 I’m originally from Vietnam. I moved to Spokane, Washington when I was 16, and later came to Lincoln, Nebraska for college. I’ve been in Lincoln ever since.
 
-See my CV here.
+See my CV [here](assets/files/CV.pdf).
 
 **Contact:** ktran21@huskers.unl.edu
 
