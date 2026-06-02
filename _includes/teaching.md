@@ -2,9 +2,7 @@
 
 ### University of Nebraska--Lincoln (UNL)
 
-  - Fall 2025--Spring 2026
-    
-    Math 107 Calculus II Recitations--*Associate Convener*, TA
+  - Fall 2025--Spring 2026: &ensp Math 107 Calculus II Recitations--*Associate Convener*, TA
   - Summer 2025
 
     Math 107 Calculus II--Instructor
