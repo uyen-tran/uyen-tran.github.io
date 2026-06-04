@@ -12,7 +12,7 @@
 2025
   - [KUMUNU](https://sites.google.com/view/kumunu2025){:target="_blank"}
  at the University of Missouri
-  - [Summer CAMP 2.0](https://nebraskacommalg.github.io/RTG/conferences/camp2025.html) (Commutative Algebra Market Preparedness){:target="_blank"}
+  - [Summer CAMP 2.0](https://nebraskacommalg.github.io/RTG/conferences/camp2025.html){:target="_blank"} (Commutative Algebra Market Preparedness)
  at University of Nebraska--Lincoln
   - [URiCA](https://urica-unl.github.io/2025/index.html){:target="_blank"}
  (Upcoming Researchers in Commutative Algebra) at University of Nebraska--Lincoln
