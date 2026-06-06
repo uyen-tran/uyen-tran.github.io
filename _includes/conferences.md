@@ -18,7 +18,7 @@
  (Upcoming Researchers in Commutative Algebra) at University of Nebraska--Lincoln
 
 2024
-  - [BRIDGEs](https://www.math.utah.edu/awmchapter/conference/){:target="_blank"}
+  - [BRIDGES](https://www.math.utah.edu/awmchapter/conference/){:target="_blank"}
  (Building Relationships for an Inclusive and Diverse Group of Emerging Students) at the University of Utah
   - [Thematic Program on Field Theory and Topology](https://sites.nd.edu/2024cmndthematicprogram/graduate-student-postdoc-week/){:target="_blank"} at the University of Notre Dame
 
