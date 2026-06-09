@@ -7,6 +7,7 @@ Research interests: commutative algebra, homological algebra
 University of Nebraska--Lincoln
 
 [Commutative Algebra Reading Seminar](https://cars-unl.github.io/index.html){:target="_blank"}
+- Matrix factorizations and minimal free resolutions over a hypersurface, June 9, 2026
 - Ulrich modules, March 11, 2026
 - Brief overview of Dedekind domains--joint talk with Abbey Moos, November 19, 2025
 - The Hilbert-Burch theorem and the Peskine-Szpiro Acyclicity lemma, August 11, 2025
