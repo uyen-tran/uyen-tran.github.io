@@ -7,26 +7,28 @@ Powered by Jekyll and [Minimal Light Theme](https://minimal-light-theme.yliu.me/
 ```
 .
 ├── _data
-|   ├── navigation.yml                        # the YAML file for navigation bar
+|   ├── navigation.yml                        # the YAML file for the navigation bar
 |   └── publications.yml                      # the YAML file for publications
 ├── _includes
 |   ├── conferences.md                        # the Markdown file for conferences and workshops attended
-|   ├── misc.md                               # the Markdown file for miscellaneous             
+|   ├── misc.md                               # the Markdown file for miscellaneous
+|   ├── navigation-home.md                    # the Markdown file for the navigation bar on homepage
+|   ├── navigation.md                         # the Markdown file for the navigation bar on all pages except homepage         
 |   ├── publications.md                       # the Markdown file for publications
 |   ├── research.md                           # the Markdown file for research related activities
 |   ├── service.md                            # the Markdown file for service and outreach
 |   └── teaching.md                           # the Markdown file for teaching history, etc.
-├── _layouts                  
-|   └── homepage.html                         #  the html template for the homepage 
+├── _layouts
+|   ├── default.html                          #  the html layout for all pages except homepage               
+|   └── homepage.html                         #  the html layout for the homepage 
 ├── _sass
 |   ├── minimal-light.scss                    #  this file will be compiled into a CSS file to control the style of the page              
 |   └── minimal-light-no-dark-mode.scss       #  this file is similar to minimal-light.scss with the dark mode disabled
 ├── assets                                    #  some files
 ├── html_source_file                          #  compiled HTML files
 ├── .gitignore                                #  this file specifies intentionally untracked files that Git should ignore
-├── CNAME                                     #  the custom domain, will be used by GitHub page sevice
+├── CNAME                                     #  the custom domain, will be used by GitHub page service
 ├── Gemfile                                   #  a RubyGems related file
-├── LICENSE                                   #  the license file
 ├── README.md                                 #  the readme file (English)
 ├── _config.yml                               #  the Jekyll configuration file, including some options of the page  
 └── index.md                                  #  the content of the index page, using Markdown
@@ -89,13 +91,8 @@ google_analytics: UA-111540567-4
 
 Create `index.md` and add your personal information. It supports **Markdown** and **HTML** syntax.
 
-### Edit included files
-
-There are two markdown files included in `index.md`. They are `_includes/publications.md` and `_includes/service.md`, respectively. These two files also support **Markdown** and **HTML** syntax. If you don't hope to include these two files, you may remove the following lines in `index.md`:
-https://github.com/yaoyao-liu/minimal-light/blob/b38070cd0b6bce45d8a885f3828549af8f82b7cb/index.md?plain=1#L21-L23
-
-If you hope to edit the publication list without changing the format, you may edit `_data/publications.yml`:
-https://github.com/yaoyao-liu/minimal-light/blob/77b1b3b31d4561091bcd739f37a2e1880e8b5ca5/_data/publications.yml#L3-L11
+### Add/edit tabs on navigation bar
+Add a **Markdown** file to `_includes/` and add the data to `_data/navigation.yml`.
 
 
 ### Stylesheet
@@ -104,18 +101,12 @@ If you'd like to add your own custom styles, you may edit `_sass/minimal-light.s
 
 ### Layouts
 
-If you'd like to change the theme's HTML layout, you may edit `_layout/homepage.html`.
-
-## License
-
-This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) License.
+If you'd like to change the theme's HTML layout, you may edit `_layouts/homepage.html` and `_layouts/default.html`.
 
 ## Acknowledgements
 
-Our project uses the source code from the following repositories:
+This project uses the source code from the following repositories:
 
-* [pages-themes/minimal](https://github.com/pages-themes/minimal)
+* [https://github.com/yaoyao-liu/minimal-light](https://github.com/yaoyao-liu/minimal-light)
 
-* [orderedlist/minimal](https://github.com/orderedlist/minimal)
-
-* [al-folio](https://github.com/alshedivat/al-folio)
+* [https://github.com/yaoyao-liu/yaoyao-liu.github.io](https://github.com/yaoyao-liu/yaoyao-liu.github.io)
